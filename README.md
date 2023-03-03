@@ -1,2 +1,2 @@
-# Elrang-B-Calculate
-Elang-B Calculate  Formula calculator
+# Erlang-B-Calculate
+Erlang-B Calculate  Formula calculator
